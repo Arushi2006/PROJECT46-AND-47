@@ -1,0 +1,13 @@
+html, body
+ {
+  margin: 0;
+  padding: 0;
+}
+canvas
+{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 100px;
+  border: 2px solid rgb(0, 0, 0);
+  background:linear-gradient(rgb(149, 218, 149),rgb(154, 154, 216));
+}
